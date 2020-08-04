@@ -2,7 +2,7 @@
 # Gustavo Dias A.
 
 ## Olá pessoal 👋
-Sou apaixonado por conhecer novas tecnologias e compartilhar o pocuo do meu conhecimento com as pessoas.
+Sou apaixonado por conhecer novas tecnologias e compartilhar com as pessoas, um pouco do conhecimento que tenho.
 Sou um Engenheiro QA :computer:
 
  :rocket:  &nbsp; Estou trabalhando no **CESAR**
