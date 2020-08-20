@@ -3,8 +3,8 @@
 
 ## Olá pessoal / Hi there! 👋😁
 
-Me chamo Gustavo, sou apaixonado por conhecer novas tecnologias e compartilhar com as pessoas, um pouco do conhecimento que tenho.
-Atualmente estou atuando como Engenheiro QA :computer:
+Me chamo Gustavo, sou um recifense apaixonado por conhecer novas tecnologias e, compartilhar com as pessoas um pouco do conhecimento que tenho.
+Atualmente atuo como Engenheiro QA :computer:
 
 :orange_heart:  &nbsp; Estou trabalhando no **CESAR**
  <br/> :rocket: &nbsp; Buscando colaborar com projetos open-source, comunidades e compartilhar conhecimentos em geral.
