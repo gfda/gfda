@@ -6,7 +6,7 @@
 Me chamo Gustavo, sou um recifense apaixonado por conhecer novas tecnologias e, compartilhar com as pessoas um pouco do conhecimento que tenho.
 Atualmente atuo como Engenheiro QA :computer:
 
-:orange_heart:  &nbsp; Estou trabalhando no (**CESAR**)[https://www.cesar.org.br/]
+:orange_heart:  &nbsp; Estou trabalhando no [**CESAR**](https://www.cesar.org.br/)
  <br/> :rocket: &nbsp; Buscando colaborar com projetos open-source, comunidades e compartilhar conhecimentos em geral. Além disso, buscando também a transição de carreira para Engenheiro de Software (Backend).
  <br/> :blush: &nbsp; Posso te ajudar com Automação de testes, Python, Linux, Redes Wireless, Terminal e Shell scripts.
  <br/> :computer: &nbsp; Minha stack: C, Java, Python, Selenium, Postman, robotframework, HTML, CSS, Gherkin(behave).
