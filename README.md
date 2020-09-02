@@ -1,4 +1,4 @@
-<img align="center" width="350" height="350" src="https://ibb.co/CWL296X">
+<img align="center" width="350" height="350" src="https://i.ibb.co/cxqL8wp/octocat.png">
 
 # Gustavo Dias A
 
