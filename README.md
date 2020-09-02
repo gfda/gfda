@@ -1,4 +1,4 @@
-<img align="center" width="350" height="350" src="https://www.imagemhost.com.br/image/U7IbJ">
+<img align="center" width="350" height="350" src="https://ibb.co/CWL296X">
 
 # Gustavo Dias A
 
