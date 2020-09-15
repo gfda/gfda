@@ -2,7 +2,7 @@
 
 # Gustavo Dias A
 
-## Olá pessoal / Hi there! 👋😁
+##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá pessoal / Hi there! 😁
 
 Me chamo Gustavo, sou um recifense apaixonado por conhecer novas tecnologias e, compartilhar com as pessoas um pouco do conhecimento que tenho.
 No momento, estou atuando como Engenheiro QA :computer:
