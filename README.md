@@ -9,7 +9,7 @@ Venho escrevendo alguns tutoriais práticos no [Gist](https://gist.github.com/gf
 No momento, estou atuando como Engenheiro QA :computer:
 
 :orange_heart:  &nbsp; Estou trabalhando no [**CESAR**](https://www.cesar.org.br/)
- <br/> :rocket: &nbsp; Buscando colaborar com projetos open-source, comunidades e compartilhar conhecimentos em geral. Buscando também a transição de carreira para Engenheiro de Software (Back End).
+ <br/> :rocket: &nbsp; Buscando colaborar com projetos open-source, comunidades e compartilhar conhecimentos em geral. Estudando para transicionar minha carreira para Engenheiro de Software (Back End).
  <br/> :blush: &nbsp; Posso te ajudar com Testes de software, Python, Linux, Redes Wireless, ADB (Android Debug Bridge) e Fastboot, Git, Terminal e Shell scripts.
  <br/> :computer: &nbsp; Minha stack: C, Java, Python, Selenium, Postman, robotframework, HTML, CSS, Gherkin(behave).
  <br/> 💬  &nbsp; Sobre mim: Bacharel em Engenharia da Computação, atuando como Engenheiro de Testes (QA) e envolvido em pesquisas sobre conflitos interpessoais e Engenharia de Requisitos.
