@@ -16,3 +16,5 @@ No momento, estou atuando como Engenheiro QA :computer:
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GustavoDiasA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-dias-alexandre-543568157/)](https://www.linkedin.com/in/gustavo-dias-alexandre-543568157/)
 |
 [![Gmail Badge](https://img.shields.io/badge/-gfdiasa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:gfdiasa@gmail.com)
+
+[![Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=gfda)](https://github.com/gfda/github-readme-stats)
