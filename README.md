@@ -18,3 +18,4 @@ No momento, estou atuando como Engenheiro QA :computer:
 [![Gmail Badge](https://img.shields.io/badge/-gfdiasa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:gfdiasa@gmail.com)
 
 [![Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=gfda&show_icons=true&theme=dracula)](https://github.com/gfda/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfda&layout=compact)](https://github.com/gfda/github-readme-stats)
