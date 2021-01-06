@@ -4,9 +4,10 @@
 
 ##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá pessoal / Hi there! 😁
 
-Me chamo Gustavo, sou um recifense apaixonado por conhecer novas tecnologias e, compartilhar com as pessoas um pouco do conhecimento que tenho.  
+Me chamo Gustavo!
+Um recifense apaixonado por conhecer novas tecnologias e, compartilhar com as pessoas um pouco do conhecimento que tenho.  
 Venho escrevendo alguns tutoriais práticos no [Gist](https://gist.github.com/gfda).  
-No momento, estou atuando como Engenheiro QA :computer: em transição de carreira para Engenheiro de Software.
+No momento, estou atuando como Engenheiro de Software :computer:
 
 :orange_heart:  &nbsp; Estou trabalhando no [**CESAR**](https://www.cesar.org.br/).
  <br/> :rocket: &nbsp; Buscando colaborar com projetos open-source, comunidades e compartilhar conhecimentos em geral.
