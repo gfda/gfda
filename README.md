@@ -5,7 +5,7 @@
 ##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá pessoal / Hi there! 😁
 
 Me chamo Gustavo!
-Um recifense apaixonado por conhecer novas tecnologias e, compartilhar com as pessoas um pouco do conhecimento que tenho.  
+Um recifense que curte conhecer novas tecnologias e, compartilhar com as pessoas um pouco do conhecimento que tenho.  
 Venho escrevendo alguns tutoriais práticos no meu [Gist](https://gist.github.com/gfda), estudando desenvolvimento WEB e [Angular 9](https://angular.io/).
 No momento, estou atuando como Engenheiro de Software :computer:
 
