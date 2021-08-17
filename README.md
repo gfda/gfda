@@ -15,9 +15,12 @@ No momento, estou atuando como Engenheiro de Software :computer:
  <br/> :computer: &nbsp; Minha stack: C, Java, Python, Selenium, Insomnia, Postman, Robot framework, HTML, CSS, Gherkin(behave).
  <br/> 💬  &nbsp; Sobre mim: Bacharel em Engenharia da Computação, atuando como Engenheiro de SW e envolvido em pesquisas sobre conflitos interpessoais e Engenharia de Requisitos.
  <br/> :email: &nbsp; Entre em contato comigo:
+
 [![Linkedin Badge](https://img.shields.io/badge/-GustavoDiasA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-dias-alexandre-543568157/)](https://www.linkedin.com/in/gustavo-dias-alexandre-543568157/)
 |
 [![Gmail Badge](https://img.shields.io/badge/-gfdiasa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:gfdiasa@gmail.com)
+|
+[![GitHub Gustavo Dias]( https://img.shields.io/github/followers/gfda?label=follow&style=social)](https://github.com/gfda)
 
 [![Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=gfda&show_icons=true&theme=dracula)](https://github.com/gfda/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfda&layout=compact&langs_count=10&theme=dracula)](https://github.com/gfda/github-readme-stats)
