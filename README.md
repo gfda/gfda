@@ -2,7 +2,7 @@
 
 <img align="right" width="300" height="300" src="https://i.ibb.co/cxqL8wp/octocat.png" alt="octocat image">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá pessoal / Hi there! 😁
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá pessoas! / Hi there! 😁
 
 Sou Gustavo!
 Um recifense que curte conhecer novas tecnologias e, compartilhar com as pessoas um pouco do conhecimento que tenho.  
