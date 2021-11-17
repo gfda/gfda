@@ -23,4 +23,3 @@ No momento, estou atuando como Engenheiro de Software :computer:
 [![GitHub Gustavo Dias]( https://img.shields.io/github/followers/gfda?label=follow&style=social)](https://github.com/gfda)
 
 [![Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=gfda&show_icons=true&theme=dracula)](https://github.com/gfda/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfda&layout=compact&langs_count=10&theme=dracula)](https://github.com/gfda/github-readme-stats)
