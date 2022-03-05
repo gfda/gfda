@@ -6,7 +6,7 @@
 
 Sou Gustavo!
 Um recifense que curte conhecer novas tecnologias e, compartilhar com as pessoas um pouco do conhecimento que tenho.  
-Venho escrevendo alguns tutoriais, além de anotações no meu [Gist](https://gist.github.com/gfda), estudando e trabalhando com desenvolvimento WEB com [Angular 9](https://angular.io/).
+Venho escrevendo alguns tutoriais, além de anotações no meu [Gist](https://gist.github.com/gfda), estudando e trabalhando com desenvolvimento WEB com [Angular](https://angular.io/).
 No momento, estou atuando como Engenheiro de Software :computer:
 
 :orange_heart:  &nbsp; Estou trabalhando no [**CESAR**](https://www.cesar.org.br/).
