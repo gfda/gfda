@@ -6,13 +6,13 @@
 
 Sou Gustavo!
 Um recifense que curte conhecer novas tecnologias e, compartilhar com as pessoas um pouco do conhecimento que tenho.  
-Venho escrevendo alguns tutoriais, além de anotações no meu [Gist](https://gist.github.com/gfda), estudando e trabalhando com desenvolvimento WEB com [Angular](https://angular.io/).
+Venho escrevendo alguns tutoriais, além de anotações no meu [Gist](https://gist.github.com/gfda), estudando e trabalhando com desenvolvimento Mobile com [react-native](http://reactnative.dev/).
 No momento, estou atuando como Engenheiro de Software :computer:
 
 :orange_heart:  &nbsp; Estou trabalhando no [**CESAR**](https://www.cesar.org.br/).
  <br/> :rocket: &nbsp; Buscando colaborar com projetos open-source, comunidades e compartilhar conhecimentos em geral.
  <br/> :blush: &nbsp; Posso te ajudar com Testes de software, Python, HTML5, CSS3, Linux, Redes Wireless, ADB (Android Debug Bridge) e Fastboot, Git, Linux Terminal e Shell scripts.
- <br/> :computer: &nbsp; Minha stack: C, Java, Python, Selenium, Insomnia, Postman, Robot framework, HTML, CSS, Gherkin(behave).
+ <br/> :computer: &nbsp; Minha stack: C, Java, Python, Selenium, Insomnia, Postman, Robot framework, HTML, CSS, Gherkin(behave), Angular.
  <br/> 💬  &nbsp; Sobre mim: Bacharel em Engenharia da Computação, atuando como Engenheiro de SW e envolvido em pesquisas sobre conflitos interpessoais e Engenharia de Requisitos.
  <br/> :email: &nbsp; Entre em contato comigo:
 
