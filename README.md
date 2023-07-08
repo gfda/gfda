@@ -12,7 +12,7 @@ No momento, estou atuando como Engenheiro de Software :computer:
 :orange_heart:  &nbsp; Estou trabalhando no [**CESAR**](https://www.cesar.org.br/).
  <br/> :rocket: &nbsp; Buscando colaborar com projetos open-source, comunidades e compartilhar conhecimentos em geral.
  <br/> :blush: &nbsp; Posso te ajudar com Testes de software, Python, HTML5, CSS3, Linux, Redes Wireless, ADB (Android Debug Bridge) e Fastboot, Git, Linux Terminal e Shell scripts.
- <br/> :computer: &nbsp; Minha stack: C, Java, Python, Selenium, Insomnia, Postman, Robot framework, HTML, CSS, Gherkin(behave), Angular.
+ <br/> :computer: &nbsp; Minha stack: C, Java, Python, Selenium, Insomnia, Postman, Robot framework, HTML, CSS, Gherkin(behave), Angular, SwiftUI e React Native.
  <br/> 💬  &nbsp; Sobre mim: Bacharel em Engenharia da Computação, atuando como Engenheiro de SW e envolvido em pesquisas sobre conflitos interpessoais e Engenharia de Requisitos.
  <br/> :email: &nbsp; Entre em contato comigo:
 
